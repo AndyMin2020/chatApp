@@ -7,12 +7,12 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
-import com.example.chatapp.model.UserModel;
-import com.example.chatapp.utils.AndroidUtil;
-import com.example.chatapp.utils.FirebaseUtil;
-import com.google.android.gms.tasks.OnCompleteListener;
-import com.google.android.gms.tasks.Task;
-import com.google.firebase.firestore.DocumentSnapshot;
+//import com.example.chatapp.model.UserModel;
+//import com.example.chatapp.utils.AndroidUtil;
+//import com.example.chatapp.utils.FirebaseUtil;
+//import com.google.android.gms.tasks.OnCompleteListener;
+//import com.google.android.gms.tasks.Task;
+//import com.google.firebase.firestore.DocumentSnapshot;
 
 public class SplashActivity extends AppCompatActivity {
 
